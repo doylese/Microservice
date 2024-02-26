@@ -70,9 +70,6 @@ The microservice will then process this request to open the document and bring u
 
 ## UML
 
-Insert a UML sequence diagram here that outlines the process flow from when the client sends a request to when it receives a response. The diagram should detail the interactions between the client, the server, and any involved components.
-
-
 ![UML Sequence Diagram](/uml.png)
 
 [Back to Top](#print-dialog-automation-microservice)
