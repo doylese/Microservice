@@ -7,7 +7,6 @@
 - [Request Data](#request-data)
 - [Receive Data](#receive-data)
 - [UML](#uml)
-- [Back to Top](#print-dialog-automation-microservice)
 
 ## About The Project
 
@@ -20,7 +19,6 @@ The microservice sends back a status message indicating the completion of the ac
 - Python
 - Socket
 - pywinauto
-- [Back to Top](#print-dialog-automation-microservice)
 
 ## Instruction
 
