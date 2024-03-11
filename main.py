@@ -12,10 +12,10 @@ def open_file_print_dialog(file_path):
             print("Document opened: " + file_path)
 
             # Wait for document
-            time.sleep(2)
+            time.sleep(4)
 
             send_keys('^p')
-
+            time.sleep(1)
             return "complete"
         except Exception as e:
             print(f"Error: {e}")
